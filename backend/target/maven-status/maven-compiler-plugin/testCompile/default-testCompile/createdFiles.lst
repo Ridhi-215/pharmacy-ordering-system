@@ -1,0 +1,9 @@
+com\pharmacy\ordering\controller\AuthControllerTest.class
+com\pharmacy\ordering\controller\MedicineControllerTest.class
+com\pharmacy\ordering\service\MedicineServiceTest.class
+com\pharmacy\ordering\service\CartServiceTest.class
+com\pharmacy\ordering\controller\OrderControllerTest.class
+com\pharmacy\ordering\controller\PrescriptionControllerTest.class
+com\pharmacy\ordering\service\OrderServiceTest.class
+com\pharmacy\ordering\service\AuthServiceTest.class
+com\pharmacy\ordering\service\PrescriptionServiceTest.class

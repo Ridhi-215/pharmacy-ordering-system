@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pharmacy.ordering.controller.AuthControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.801 s -- in com.pharmacy.ordering.controller.AuthControllerTest
